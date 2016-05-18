@@ -54,7 +54,7 @@ a {
       margin-left: 0; } }
 
 .page-header {
-  color: #fff;
+  color: #777777;
   text-align: center;
   background-color: #159957;
   background-image: linear-gradient(120deg, #155799, #159957); }
@@ -89,7 +89,7 @@ a {
 
 .project-tagline {
   margin-bottom: 2rem;
-  font-weight: normal;
+  font-weight: bold;
   opacity: 0.7; }
 
 @media screen and (min-width: 64em) {
